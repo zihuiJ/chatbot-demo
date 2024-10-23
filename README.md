@@ -1,7 +1,12 @@
 # chatbot-demo
-watch the full demo video ⬇️
+click to watch the full demo video on youtube ⬇️
 
-https://youtu.be/niRgL2sRpug
+[![demo video redirect](https://img.youtube.com/vi/niRgL2sRpug/2.jpg)](https://www.youtube.com/watch?v=niRgL2sRpug)
+
+
+a chatbot inspired by ChatGPT, with extra features adapted to an oil company
+
+**tech stack**: TypeScript, Next.js, TailwindCSS
 
 ## features walkthrough
 **Authentication**: register and login with email and password.
